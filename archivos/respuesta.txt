@@ -1,1 +1,0 @@
-Como la carpeta està vacia, no se puede hacer el commit, pues github no identifica cambios.
