@@ -1,0 +1,1 @@
+Ya se puede realizar un commit porque la carpeta ya tiene un contenido como tal, que es el archivo merge.txt
