@@ -1,0 +1,1 @@
+Al momento de crear la carpeta llamada archivos, no se pudo realizar el commit, pues al estar la carpeta vacía lo identifica como que no hubieron cambios.
