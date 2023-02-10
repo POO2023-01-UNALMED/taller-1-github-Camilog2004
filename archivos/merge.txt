@@ -1,0 +1,3 @@
+Nombre: Juan Camilo Gutiérrez Martínez
+Edad: 19
+Aspiraciones: Lograr entender el paradigma de la orientación orientada a objetos y poder aplicarla para resolver problemas.
