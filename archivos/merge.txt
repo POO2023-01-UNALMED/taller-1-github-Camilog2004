@@ -1,3 +1,9 @@
 Nombre: Juan Camilo Gutiérrez Martínez
 Edad: 19
 Aspiraciones: Lograr entender el paradigma de la orientación orientada a objetos y poder aplicarla para resolver problemas.
+Ya se puede realizar un commit porque la carpeta ya tiene un contenido como tal, que es el archivo merge.txt
+
+¿Por qué
+es importante tener cuidado con modificar dos archivos al mismo tiempo?
+R// Porque se pueden crear conflictos como el del taller, al no haber bajado los cambios de Github a nuestra copia local, estabamos trabajando en un repositorio desactualizado, por lo tanto al momento de hacer el commit y el push
+habían dos archivos merge y por lo tanto Github no sabía si dejar la versión pasada o la versión más actual.
